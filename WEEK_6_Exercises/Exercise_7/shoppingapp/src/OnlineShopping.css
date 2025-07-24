@@ -1,0 +1,43 @@
+.shopping-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+}
+
+.green-box {
+  background-color: #e8f5e9; /* light green */
+  border: 3px solid green;
+  border-radius: 10px;
+  padding: 15px;
+  width: 400px;
+  margin: auto;
+}
+
+.cart-row {
+  display: flex;
+  border: 2px solid green;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.header-row {
+  background-color: #c8e6c9;
+  font-weight: bold;
+}
+
+.item, .price {
+  width: 48%;
+  padding: 10px;
+  text-align: center;
+}
+
+.divider-vertical {
+  width: 4%;
+  background-color: green;
+}
