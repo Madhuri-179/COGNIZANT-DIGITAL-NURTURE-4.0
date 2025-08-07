@@ -1,0 +1,5 @@
+Master update
+Branch: GitNewBranch content
+Branch: master content
+This is a line added in GitNewBranch
+GitNewBranch update
